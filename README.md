@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the Quantum-Classical CNN Hybrid Model! This QCCNN model is splitted into two parts as below.
 
-## The CNN Overview
+## The Quantum filter Overview
 With four qubits, we start our Quantum filter(Quanv2d). First, we use **angle encoding(RZ, RY)** to transform data into quantum state. And then we use **one-to-one stabilizer** to reduce the error flip bits,
 
 ### Key Features:
