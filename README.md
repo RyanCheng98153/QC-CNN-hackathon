@@ -1,5 +1,4 @@
 # NCCU Quantum Hackathon (QC-CNN)
-## Model: QC-CNN
 
 ## Introduction
 Welcome to the Quantum-Classical CNN Hybrid Model! This QCCNN model is splitted into two parts as below.
