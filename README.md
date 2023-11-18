@@ -9,7 +9,7 @@ The model flow is as below. With four qubits, we start our Quantum filter. First
 
 ### Key Features:
 - **Quantum Filter**: Quantum noise is rising from the indeterminate state, our model is expected to reduce this noise. 
-- **QCCNN model**: We implement the CQ 
+- **CQCNN model**: We implement the CQCNN by applying Quantum filter as an componet of CNN. 
 - **Hybrid Integration**: Seamlessly integrates quantum computations with classical processes.
 
 ### Hardware Requirements:
@@ -23,3 +23,6 @@ The model flow is as below. With four qubits, we start our Quantum filter. First
 
 ### Reference
   - [QCCNN](https://link.springer.com/article/10.1007/s11433-021-1734-3)
+
+### Code explanation
+  - 
