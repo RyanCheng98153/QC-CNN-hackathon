@@ -1,4 +1,9 @@
 # NCCU Quantum Hackathon (QC-CNN)
-## model:
+## Model: QC-CNN
 
-df
+
+## Devices:
+### Google colab - T4 GPU
+
+
+
