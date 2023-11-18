@@ -3,11 +3,11 @@
 ## Introduction
 Welcome to the Quantum-Classical CNN Hybrid Model! This QCCNN model is splitted into two parts as below.
 
-## The Quantum filter Overview
-With four qubits, we start our Quantum filter(Quanv2d). First, we use **angle encoding(RZ, RY)** to transform data into quantum state. And then we use **one-to-one stabilizer** to reduce the error flip bits,
+## The Model Overview
+With four qubits, we start our Quantum filter. First, we use **angle encoding(RZ, RY)** to transform data into quantum state. And then we use **one-to-one stabilizer** to reduce the error flip bits. After the quantum layer, an 2-d array will be sent into our CNN model.
 
 ### Key Features:
-- **Quantum Filter**: Quantum noise is noise arising from the indeterminate state, out model is assumed to reduce this noise. 
+- **Quantum Filter**: Quantum noise is noise arising from the indeterminate state, our model is expected to reduce this noise. 
 - **Hybrid Integration**: Seamlessly integrates quantum computations with classical processes.
 
 ### Hardware Requirements:
