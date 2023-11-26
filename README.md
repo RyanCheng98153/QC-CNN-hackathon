@@ -1,7 +1,7 @@
 # NCCU Quantum Hackathon
 
 ## Introduction
-Welcome to the Classical-Quantum CNN Hybrid Model with modified ! 
+Welcome to the Classical-Quantum CNN Hybrid Model with modification ! 
 
 ### The Model Overview
 The model flow and the result is as below. With four qubits, we build our Quantum filter by using **angle encoding(RZ, RY)** to transform data into quantum state. And then we use **one-to-one stabilizer** to reduce the error flip bits. After the quantum layer, an 2-d array will be sent into our traditional CNN model to train.
@@ -10,7 +10,7 @@ The model flow and the result is as below. With four qubits, we build our Quantu
 
 ### Key Features:
 - **Quantum Filter**: Quantum noise is rising from the indeterminate state, our model is expected to reduce this noise. 
-- **CQCNN model**: We implement the CQCNN by applying Quantum filter as an componet of CNN. 
+- **CQCNN model**: We implement the CQCNN by applying Quantum filter as an component of CNN. 
 - **Hybrid Integration**: Seamlessly integrates quantum computations with classical processes.
 
 ### Hardware Requirements:
